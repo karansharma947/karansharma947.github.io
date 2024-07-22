@@ -25,3 +25,7 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 ## Over all 87%
 
 # Achievement
+[Karan Sharma.pdf](https://github.com/user-attachments/files/16334399/Karan.Sharma.pdf)
+
+
+
