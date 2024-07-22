@@ -4,7 +4,7 @@
 My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admission in **GNDEC Ludhiana** . I got CSE Branch .I'm very excited to learn new things from my college, Read my profile cause my college organize induction program of our freshly new batch. Some Great personality comes to our college to share their experince with us.I done my schooling from SGND Convent school Andlu.
 # 10th Class marks
 
-|Subject|Marks|overall|
+| Subject | Marks | overall |
 |---|---|---|
 |Math |40  |100  |
 |Science |50 |100 |
@@ -16,7 +16,7 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 
 # 12th class marks
 
-|Subject|Marks|Overall|
+| Subject | Marks | Overall |
 |---|---|---|
 |Math |95 |100 | 
 |Chemistry |89 |100 |
