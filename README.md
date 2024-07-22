@@ -5,7 +5,7 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 # 10th Class marks
 
 | Subject | Marks | overall |
-|---|---|---|
+| --- | --- | --- |
 | Math | 40  | 100  |
 | Science | 50 | 100 |
 | social science | 77 | 100 |
@@ -17,7 +17,7 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 # 12th class marks
 
 | Subject | Marks | Overall |
-|---|---|---|
+| --- | --- | --- |
 | Math | 95 | 100 | 
 | Chemistry | 89 | 100 |
 | English | 89 | 100 |
