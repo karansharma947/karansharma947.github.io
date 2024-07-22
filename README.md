@@ -5,23 +5,23 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 # 10th Class marks
 
 | Subject | Marks | overall |
-| --- | --- | --- |
-| Math | 40  | 100  |
-| Science | 50 | 100 |
-| social science | 77 | 100 |
-| Punjabi | 88  | 100 |
-| English | 95  | 100 |
-| Total | 350 | 500 |
+|----- | ----- |----- |
+|Math |40  |100  |
+|Science |50 |100 |
+|social science |77 |100 |
+|Punjabi |88  |100 |
+|English |95  |100 |
+|Total |350 |500 |
 ## Over all 70%
 
 # 12th class marks
 
 | Subject | Marks | Overall |
-| --- | --- | --- |
-| Math | 95 | 100 | 
-| Chemistry | 89 | 100 |
-| English | 89 | 100 |
-| Punjabi | 89 | 100 |
+| ----- | ----- | ----- |
+|Math |95 |100 | 
+|Chemistry |89 |100 |
+|English |89 |100 |
+|Punjabi |89 |100 |
 | Physics | 73 | 100 |
 | Total | 435 | 500 |
 ## Over all 87%
