@@ -11,7 +11,7 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 | Punjabi | 88    | 100     |
 | English | 95    | 100     |
 | Total   | 350   | 100     |
-## Over all 70%
+## Over all 70%.
 
 # Achievement
 [Karan Sharma.pdf](https://github.com/user-attachments/files/16334399/Karan.Sharma.pdf)
