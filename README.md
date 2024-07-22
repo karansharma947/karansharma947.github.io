@@ -23,6 +23,7 @@ My name is Karan Sharma .I live in pakhowal . I am dropper who recently get admi
 |English |89 |100 |
 |Punjabi |89 |100 |
 |Physics |73 |100 |
+|Total |435 |500 |
 ## Over all 87%
 
 # Achievement
